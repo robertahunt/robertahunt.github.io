@@ -4,7 +4,7 @@ title: "Projects"
 permalink: /projects/
 ---
 
-This is some text. This is supposed to appear on the site.
+This is some text. This is supposed to appear on the site.... Which is... UNDER CONSTRUCTION... 
 
 ## Coding Projects
 
